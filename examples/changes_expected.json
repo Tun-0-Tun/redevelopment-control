@@ -1,0 +1,46 @@
+{
+ "image_size": [
+  1100,
+  830
+ ],
+ "aligned": true,
+ "has_changes": true,
+ "changes": [
+  {
+   "class_id": 3,
+   "class": "plumbing_moved",
+   "label_ru": "перенос сантехники",
+   "bbox": [
+    683.2,
+    319.9,
+    769.1,
+    386.9
+   ],
+   "score": 0.962
+  },
+  {
+   "class_id": 1,
+   "class": "removed_partition",
+   "label_ru": "демонтаж перегородки",
+   "bbox": [
+    655.3,
+    378.3,
+    681.1,
+    436.6
+   ],
+   "score": 0.923
+  },
+  {
+   "class_id": 1,
+   "class": "removed_partition",
+   "label_ru": "демонтаж перегородки",
+   "bbox": [
+    663.9,
+    324.2,
+    678.9,
+    356.6
+   ],
+   "score": 0.826
+  }
+ ]
+}
